@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "pantalon mickey",
+        "description": "pantalon de mickey tela 1",
+        "price": 3000,
+        "image": "pantalon1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "pantalon mickey",
+        "description": "pantalon de mickey tela 1",
+        "price": 3000,
+        "image": "pantalon1.jpg"
+    },
+    {
+
+        "id": 3,
+        "name": "pantalon mickey",
+        "description": "pantalon de mickey tela 1",
+        "price": 3000,
+        "image": "pantalon1.jpg"
+    },
+    {
+        "id": 4,
+        "name": "pantalon mickey",
+        "description": "pantalon de mickey tela 1",
+        "price": 3000,
+        "image": "pantalon1.jpg"
+    },
+    {
+        "id": 5,
+        "name": "pantalon mickey",
+        "description": "pantalon de mickey tela 1",
+        "price": 3000,
+        "image": "pantalon1.jpg"
+    }
+]
